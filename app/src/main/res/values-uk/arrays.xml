@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="statusArray">
+        <item>На звязку</item>
+        <item>Відійшов</item>
+        <item>Відійшов далеко</item>
+        <item>Не турбувати</item>
+        <item>Не проти побалакати</item>
+        <item>Відключений</item>
+    </array>
+    
+    <string-array name="vibrationArray">
+    	<item>Завжди</item>
+    	<item>Тільки чати</item>
+    	<item>Чати та звернення із конференцій</item>
+    	<item>Тільки конференції</item>
+    	<item>Ніколи</item>
+    </string-array>
+
+    <string-array name="lightsArray">
+        <item>Зелений</item>
+        <item>Синій</item>
+        <item>Червоний</item>
+    </string-array>
+
+    <string-array name="rooms">
+        <item>jtalk@conference.jabber.ru</item>
+    </string-array>
+
+    <string-array name="StatusMessages">
+        <item>Приховати усе</item>
+        <item>Показувати усе</item>
+        <item>Тільки вхід/вихід</item>
+    </string-array>
+</resources>

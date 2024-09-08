@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/linear"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:textStyle="bold"
+              android:text="Format:"/>
+    <Spinner android:id="@+id/formatSpinner"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content" />
+
+    <CheckBox android:id="@+id/statusCheck"
+              android:checked="true"
+              android:text="Include statuses"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"/>
+
+    <TextView android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:textStyle="bold"
+              android:text="Path:"/>
+
+    <EditText android:id="@+id/pathEdit"
+              android:inputType="textUri"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"/>
+
+    <FrameLayout android:layout_weight="1"
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent">
+        <ProgressBar android:id="@+id/progress"
+                     style="@android:style/Widget.Holo.ProgressBar.Large"
+                     android:visibility="gone"
+                     android:layout_gravity="center"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"/>
+    </FrameLayout>
+
+    <LinearLayout android:layout_weight="0"
+                  android:id="@+id/data_form_button_bar"
+                  android:orientation="horizontal"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content">
+        <Button android:id="@+id/exportButton"
+                android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+                android:text="@string/Export"/>
+    </LinearLayout>
+
+</LinearLayout>

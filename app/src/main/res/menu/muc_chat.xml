@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/count"
+        android:visible="false"
+        android:icon="@drawable/ic_mail_outline"
+        android:title=""
+        android:showAsAction="always|withText" />
+    <item android:id="@+id/sidebar"
+          android:icon="@drawable/ic_menu_friendslist"
+          android:title="Show users"
+          android:showAsAction="always"/>
+    <item android:id="@+id/templates"
+          android:showAsAction="never"
+          android:title="@string/Templates" />
+    <item android:id="@+id/subj"
+          android:showAsAction="never"
+          android:title="@string/Subject" />
+    <item android:id="@+id/invite"
+          android:showAsAction="never"
+          android:title="@string/Invite" />
+    <item android:id="@+id/add_bookmark"
+          android:showAsAction="never"
+          android:title="@string/AddBookmark" />
+    <item android:id="@+id/select"
+          android:title="@string/SelectMessage"
+          android:showAsAction="never"/>
+    <item android:id="@+id/file"
+        android:title="@string/SendFile"
+        android:showAsAction="never"/>
+    <item android:id="@+id/search"
+          android:title="@android:string/search_go"/>
+    <item android:title="@string/History"
+          android:showAsAction="never">
+        <menu>
+            <item android:id="@+id/delete_history"
+                  android:title="@string/DeleteHistory"/>
+            <item android:id="@+id/export_history"
+                  android:title="@string/Export"/>
+        </menu>
+    </item>
+    <item android:id="@+id/leave"
+          android:showAsAction="never"
+          android:title="@string/Leave"/>
+</menu>

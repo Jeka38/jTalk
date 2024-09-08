@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:orientation="vertical">
+
+        <TextView android:id="@+id/status"
+                  android:singleLine="false"
+                  android:gravity="center"
+                  android:textSize="28sp"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                  android:layout_margin="10dp"
+                />
+
+        <Chronometer android:id="@+id/chrono"
+                  android:gravity="center"
+                  android:textSize="28sp"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                  android:layout_margin="10dp"
+                />
+    </LinearLayout>
+
+    <TableLayout
+            android:gravity="bottom"
+            android:layout_weight="1"
+            android:layout_width="fill_parent"
+                 android:layout_height="fill_parent">
+
+        <TableRow android:gravity="center"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+            <Button android:textSize="36sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="onClick"
+                    android:text="1"
+                    android:id="@+id/button1" android:layout_column="1"/>
+            <Button android:textSize="36sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="onClick"
+                    android:text="2"
+                    android:id="@+id/button2" android:layout_column="2"/>
+            <Button android:textSize="36sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="onClick"
+                    android:text="3"
+                    android:id="@+id/button3" android:layout_column="3"/>
+        </TableRow>
+        <TableRow android:gravity="center"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+            <Button android:textSize="36sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="onClick"
+                    android:text="4"
+                    android:id="@+id/button4" android:layout_column="1"/>
+            <Button android:textSize="36sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="onClick"
+                    android:text="5"
+                    android:id="@+id/button5"/>
+            <Button android:textSize="36sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="6"
+                    android:id="@+id/button6"/>
+        </TableRow>
+        <TableRow android:gravity="center"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+            <Button android:textSize="36sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="onClick"
+                    android:text="7"
+                    android:id="@+id/button7" android:layout_column="1"/>
+            <Button android:textSize="36sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="onClick"
+                    android:text="8"
+                    android:id="@+id/button8"/>
+            <Button android:textSize="36sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="onClick"
+                    android:text="9"
+                    android:id="@+id/button9"/>
+        </TableRow>
+        <TableRow android:gravity="center"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+            <Button android:textSize="36sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="onClick"
+                    android:text="*"
+                    android:id="@+id/button10" android:layout_column="1"/>
+            <Button android:textSize="36sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="onClick"
+                    android:text="0"
+                    android:id="@+id/button0"/>
+            <Button android:textSize="36sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="onClick"
+                    android:text="#"
+                    android:id="@+id/button11"/>
+        </TableRow>
+    </TableLayout>
+
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button
+                android:layout_weight="1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onClick"
+                android:text="Mute"
+                android:id="@+id/muteButton"
+                android:layout_gravity="bottom" />
+        <Button
+                android:layout_weight="1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onClick"
+                android:text="Speaker"
+                android:id="@+id/speakerButton"
+                android:layout_gravity="bottom" />
+    </LinearLayout>
+
+    <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="onClick"
+            android:text="End call"
+            android:id="@+id/endButton"
+            android:layout_gravity="bottom" />
+</LinearLayout>

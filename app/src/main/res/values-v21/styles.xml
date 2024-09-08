@@ -1,0 +1,36 @@
+<resources>
+    <style name="AppThemeLight" parent="android:Theme.Material.Light.DarkActionBar">
+        <!-- for programmatic instantiation -->
+        <item name="vpiTitlePageIndicatorStyle">@style/TitlePageIndicatorLight</item>
+        <item name="iconColor">@android:color/white</item>
+        <item name="chatIconColor">@android:color/black</item>
+    </style>
+
+    <style name="TitlePageIndicatorLight" parent="@style/Widget.TitlePageIndicator">
+        <item name="selectedColor">?android:attr/textColorPrimary</item>
+        <item name="footerColor">?android:attr/textColorPrimary</item>
+        <item name="footerIndicatorStyle">underline</item>
+        <item name="footerIndicatorHeight">4dp</item>
+        <item name="footerLineHeight">2dp</item>
+        <item name="footerPadding">8dp</item>
+    </style>
+
+
+    <style name="AppThemeDark" parent="android:Theme.Material">
+        <!-- for programmatic instantiation -->
+        <item name="vpiTitlePageIndicatorStyle">@style/TitlePageIndicatorDark</item>
+        <item name="iconColor">@android:color/white</item>
+        <item name="chatIconColor">@android:color/white</item>
+    </style>
+
+    <style name="TitlePageIndicatorDark" parent="@style/Widget.TitlePageIndicator">
+        <item name="selectedColor">?android:attr/textColorPrimary</item>
+        <item name="footerColor">?android:attr/textColorPrimary</item>
+        <item name="footerIndicatorStyle">underline</item>
+        <item name="footerIndicatorHeight">4dp</item>
+        <item name="footerLineHeight">2dp</item>
+        <item name="footerPadding">8dp</item>
+    </style>
+
+
+</resources>

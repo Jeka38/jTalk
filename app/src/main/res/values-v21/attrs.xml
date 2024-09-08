@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="AppTheme">
+        <attr name="iconColor" format="color" />
+        <attr name="chatIconColor" format="color" />
+    </declare-styleable>
+
+</resources>

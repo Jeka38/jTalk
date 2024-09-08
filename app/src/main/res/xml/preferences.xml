@@ -1,0 +1,371 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceScreen android:title="@string/Roster">
+        <CheckBoxPreference
+                android:key="hideOffline"
+                android:title="@string/OfflineContacts"
+                android:defaultValue="true" />
+        <CheckBoxPreference
+                android:key="ShowGroups"
+                android:title="@string/ShowGroups"
+                android:defaultValue="true" />
+        <CheckBoxPreference
+                android:key="ShowActiveChatsGroup"
+                android:dependency="ShowGroups"
+                android:title="@string/ShowActiveChatsGroup"
+                android:defaultValue="false" />
+        <CheckBoxPreference
+                android:key="ShowDoubles"
+                android:dependency="ShowActiveChatsGroup"
+                android:title="@string/ShowActiveContacts"
+                android:defaultValue="false" />
+        <CheckBoxPreference
+                android:key="ShowMucGroup"
+                android:title="@string/ShowMucGroup"
+                android:defaultValue="false" />
+        <EditTextPreference
+                android:key="RosterSize"
+                android:inputType="number"
+                android:title="@string/FontSize"
+                android:defaultValue="@string/DefaultFontSize" />
+        <CheckBoxPreference
+                android:key="SortByStatuses"
+                android:title="@string/SortByStatuses"
+                android:defaultValue="true" />
+        <CheckBoxPreference
+                android:key="SelfContact"
+                android:title="@string/ShowSelfResources"
+                android:defaultValue="true" />
+        <CheckBoxPreference
+                android:key="ColorLines"
+                android:title="@string/ColorLines"
+                android:defaultValue="false" />
+    </PreferenceScreen>
+
+    <PreferenceScreen android:title="@string/Chat">
+        <PreferenceScreen android:title="@string/ShowTime">
+            <CheckBoxPreference
+                    android:key="ShowTime"
+                    android:title="@string/ShowTime"
+                    android:defaultValue="true" />
+            <EditTextPreference
+                    android:key="TimeSize"
+                    android:dependency="ShowTime"
+                    android:title="@string/FontSize"
+                    android:defaultValue="@string/DefaultTimeSize"
+                    android:inputType="number"/>
+        </PreferenceScreen>
+        <ListPreference
+                android:defaultValue="2"
+                android:entries="@array/StatusMessages"
+                android:entryValues="@array/StatusMessagesValues"
+                android:key="StatusMessagesMode"
+                android:title="@string/ShowStatus"/>
+        <CheckBoxPreference
+                android:key="ShowChatState"
+                android:title="@string/ShowChatState"
+                android:defaultValue="true" />
+        <CheckBoxPreference
+                android:key="SendChatState"
+                android:title="@string/SendChatState"
+                android:defaultValue="true" />
+        <CheckBoxPreference
+                android:key="AutoScroll"
+                android:title="@string/Autoscroll"
+                android:defaultValue="true" />
+        <CheckBoxPreference
+                android:key="SendOnEnter"
+                android:title="@string/SendOnEnter"
+                android:defaultValue="false" />
+        <CheckBoxPreference
+                android:key="SmileButtonOnKeyboard"
+                android:title="@string/ShowSmilesButton"
+                android:summary="@string/OnKeyboard"
+                android:defaultValue="false" />
+        <CheckBoxPreference
+                android:key="HideKeyboard"
+                android:title="@string/HideKeyboard"
+                android:defaultValue="true" />
+        <EditTextPreference
+                android:key="FontSize"
+                android:title="@string/FontSize"
+                android:defaultValue="@string/DefaultFontSize"
+                android:inputType="number"/>
+        <CheckBoxPreference
+                android:title="@string/ShowDeliveryNotifications"
+                android:key="ShowReceivedIcon"
+                android:defaultValue="true"/>
+        <CheckBoxPreference
+                android:title="@string/ShowHintsOnInputPanel"
+                android:key="ShowInputHints"
+                android:defaultValue="true"/>
+    </PreferenceScreen>
+
+    <PreferenceScreen android:title="@string/MUC">
+        <CheckBoxPreference
+                android:key="EnableAutojoin"
+                android:title="@string/AutoJoin"
+                android:defaultValue="true" />
+        <EditTextPreference
+                android:key="MucHistorySize"
+                android:title="@string/MucHistorySize"
+                android:defaultValue="30"
+                android:inputType="number"/>
+        <EditTextPreference
+                android:key="nickSeparator"
+                android:title="@string/AddAfterNick"
+                android:defaultValue=", " />
+        <EditTextPreference
+                android:key="Highlights"
+                android:title="@string/WordsForHighlight"
+                android:defaultValue="" />
+        <CheckBoxPreference
+                android:key="HighlightFullWord"
+                android:title="@string/HighlightOnlyFullWords"
+                android:defaultValue="false" />
+        <CheckBoxPreference
+                android:key="OldUserList"
+                android:title="@string/OldUserList"
+                android:defaultValue="false" />
+    </PreferenceScreen>
+
+    <PreferenceScreen android:title="@string/Notifications">
+        <RingtonePreference android:key="ringtone"
+                            android:title="@string/Ringtone"
+                            android:showSilent="true"
+                            android:showDefault="true"
+                            android:ringtoneType="notification"
+                            android:defaultValue="content://settings/system/notification_sound" />
+
+        <RingtonePreference android:key="ringtone_conferences"
+                            android:title="@string/RingtoneConference"
+                            android:showSilent="true"
+                            android:showDefault="true"
+                            android:ringtoneType="notification"
+                            android:defaultValue="" />
+
+        <RingtonePreference android:key="ringtone_direct"
+                            android:title="@string/RingtoneDirect"
+                            android:showSilent="true"
+                            android:showDefault="true"
+                            android:ringtoneType="notification"
+                            android:defaultValue="content://settings/system/notification_sound" />
+
+        <ListPreference
+                android:defaultValue="1"
+                android:entries="@array/lightsArray"
+                android:entryValues="@array/LightsValues"
+                android:key="lightsColor"
+                android:title="@string/IndicatorColor"/>
+
+        <ListPreference
+                android:defaultValue="3"
+                android:entries="@array/vibrationArray"
+                android:entryValues="@array/vibrationValues"
+                android:key="vibrationMode"
+                android:title="@string/Vibration"/>
+        <EditTextPreference
+                android:key="IgnoreJids"
+                android:title="@string/IgnoreUsers"
+                android:defaultValue="" />
+        <CheckBoxPreference
+                android:key="MakeChatRead"
+                android:title="@string/MakeChatRead"
+                android:defaultValue="false" />
+    </PreferenceScreen>
+
+    <PreferenceScreen android:title="@string/Autostatus">
+        <CheckBoxPreference
+                android:key="AutoStatus"
+                android:title="@string/Autostatus"
+                android:defaultValue="false" />
+        <CheckBoxPreference
+                android:dependency="AutoStatus"
+                android:key="AutoStatusOnDisplayOn"
+                android:title="@string/ScreenTurnsOn"
+                android:defaultValue="false" />
+        <CheckBoxPreference
+                android:dependency="AutoStatusOnDisplayOn"
+                android:key="AutoStatusOnDisplayOff"
+                android:title="@string/ScreenTurnsOff"
+                android:defaultValue="false" />
+        <EditTextPreference
+                android:dependency="AutoStatus"
+                android:disableDependentsState="false"
+                android:key="AutoStatusAway"
+                android:inputType="number"
+                android:title="@string/DelayAway"
+                android:defaultValue="10" />
+        <EditTextPreference
+                android:dependency="AutoStatus"
+                android:key="AutoStatusXa"
+                android:inputType="number"
+                android:title="@string/DelayXa"
+                android:defaultValue="20" />
+        <EditTextPreference
+                android:dependency="AutoStatus"
+                android:key="AutoStatusTextAway"
+                android:title="@string/AutoStatusTextAway"
+                android:defaultValue="@string/AutoStatusTextAway" />
+        <EditTextPreference
+                android:dependency="AutoStatus"
+                android:key="AutoStatusTextXa"
+                android:title="@string/AutoStatusTextXa"
+                android:defaultValue="@string/AutoStatusTextXa" />
+        <EditTextPreference
+                android:dependency="AutoStatus"
+                android:key="AutoStatusPriorityAway"
+                android:inputType="number"
+                android:title="@string/AwayPriority"
+                android:defaultValue="0" />
+        <EditTextPreference
+                android:dependency="AutoStatus"
+                android:key="AutoStatusPriorityXa"
+                android:inputType="number"
+                android:title="@string/ExtendedAwayPriority"
+                android:defaultValue="0" />
+        <CheckBoxPreference
+                android:key="AutoStatusOnSoundOff"
+                android:title="@string/AutoStatusOnSoundOff"
+                android:defaultValue="false" />
+        <CheckBoxPreference
+                android:key="RememberPresence"
+                android:title="@string/RememberPresenceOnExit"
+                android:defaultValue="true" />
+    </PreferenceScreen>
+
+    <PreferenceScreen android:title="@string/Interface">
+        <ListPreference
+                android:key="ColorTheme"
+                android:title="@string/ColorTheme"/>
+        <PreferenceScreen android:title="@string/Smiles">
+            <CheckBoxPreference
+                    android:key="ShowSmiles"
+                    android:title="@string/ShowSmiles"
+                    android:defaultValue="true" />
+            <CheckBoxPreference
+                    android:dependency="ShowSmiles"
+                    android:key="ShowSmilesButton"
+                    android:title="@string/ShowSmilesButton"
+                    android:defaultValue="true" />
+            <ListPreference
+                    android:key="SmilesPack"
+                    android:title="@string/Smiles"/>
+            <EditTextPreference
+                    android:key="SmilesSize"
+                    android:title="@string/Size"
+                    android:defaultValue="34"
+                    android:inputType="number"/>
+            <EditTextPreference
+                    android:key="SmilesColumns"
+                    android:title="@string/Columns"
+                    android:summary="@string/TheNumberColumnsDialog"
+                    android:defaultValue="6"
+                    android:inputType="number"/>
+        </PreferenceScreen>
+        <ListPreference
+                android:key="IconPack"
+                android:title="@string/Icons"/>
+        <CheckBoxPreference
+                android:key="showSound"
+                android:title="@string/ShowSoundIconOnActionBar"
+                android:defaultValue="false" />
+        <CheckBoxPreference
+                android:key="ShowStatuses"
+                android:title="@string/ShowStatuses"
+                android:defaultValue="true" />
+        <CheckBoxPreference
+                android:key="ShowCaps"
+                android:title="@string/ShowClientsIcons"
+                android:defaultValue="true" />
+        <CheckBoxPreference
+                android:key="ColorNick"
+                android:title="@string/UseColorNicks"
+                android:defaultValue="true" />
+    </PreferenceScreen>
+
+    <PreferenceScreen android:title="@string/Other">
+        <CheckBoxPreference
+                android:title="@string/AutostartOnBoot"
+                android:key="AUTOSTART"
+                android:defaultValue="false"/>
+        <CheckBoxPreference
+                android:title="@string/EnableMessageCarbons"
+                android:key="EnableCarbons"
+                android:summary="@string/NeededReconnect"
+                android:defaultValue="true"/>
+        <CheckBoxPreference
+                android:title="@string/DeleteHistoryOnExit"
+                android:key="DeleteHistory"
+                android:defaultValue="false"/>
+        <CheckBoxPreference
+                android:title="@string/WiFiLock"
+                android:key="WifiLock"
+                android:defaultValue="true"/>
+        <CheckBoxPreference
+                android:title="@string/hideVersion"
+                android:key="hideVersion"
+                android:defaultValue="false"/>
+        <CheckBoxPreference
+                android:title="@string/AutoLoadPictures"
+                android:key="LoadPictures"
+                android:defaultValue="true"/>
+        <EditTextPreference
+                android:key="MaxPictureSize"
+                android:dependency="LoadPictures"
+                android:title="@string/MaxPictureSize"
+                android:summary="@string/MaxPictureSizeSummary"
+                android:defaultValue="2048"
+                android:inputType="number"/>
+        <ListPreference
+                android:key="SubscriptionMode"
+                android:title="@string/SubscriptionMode"/>
+        <CheckBoxPreference
+                android:key="IgnoreNoRoster"
+                android:title="@string/IgnoreNoRoster"
+                android:defaultValue="false"/>
+    </PreferenceScreen>
+
+    <PreferenceScreen android:title="@string/Experimental">
+        <CheckBoxPreference
+                android:title="@string/PingToServer"
+                android:summary="@string/NeededReconnect"
+                android:key="Ping"
+                android:defaultValue="true"/>
+        <EditTextPreference
+                android:dependency="Ping"
+                android:key="PingTimeout"
+                android:title="@string/PingTimeout"
+                android:summary="@string/inseconds"
+                android:defaultValue="35"
+                android:inputType="number"/>
+        <CheckBoxPreference
+                android:title="XML Console"
+                android:key="XMLConsole"
+                android:defaultValue="false"/>
+        <CheckBoxPreference
+            android:title="Use direct file transfer"
+            android:key="DirectFileTransfer"
+            android:defaultValue="true"/>
+<!--        <CheckBoxPreference
+            android:title="Preload links"
+            android:summary="Use third-party service to preload links"
+            android:key="PreloadLinks"
+            android:defaultValue="false"/>
+-->
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/Info">
+        <Preference
+                android:key="version"
+                android:title="@string/Version"/>
+        <Preference
+                android:key="build"
+                android:title="Build"/>
+        <Preference
+                android:title="Web"
+                android:summary="https://codeberg.org/kream7/jTalks">
+            <intent
+                    android:action="android.intent.action.VIEW"
+                    android:data="https://codeberg.org/kream7/jTalks"/>
+        </Preference>
+    </PreferenceScreen>
+</PreferenceScreen>

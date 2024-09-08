@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/search"
+          android:title="@android:string/search_go"/>
+    <item android:id="@+id/clear"
+          android:title="@string/Clear"
+          android:showAsAction="never"/>
+</menu>

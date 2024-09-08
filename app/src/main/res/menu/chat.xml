@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/count"
+        android:visible="false"
+        android:icon="@drawable/ic_mail_outline"
+        android:title=""
+        android:showAsAction="always|withText" />
+    <item android:id="@+id/info"
+        android:title="@string/Info"
+        android:showAsAction="never"/>
+    <item android:id="@+id/templates"
+          android:title="@string/Templates"
+          android:showAsAction="never"/>
+    <item android:id="@+id/resource"
+          android:title="@string/SelectResource"
+          android:showAsAction="never"/>
+    <item android:id="@+id/select"
+          android:title="@string/SelectMessage"
+          android:showAsAction="never"/>
+    <item android:id="@+id/file"
+          android:title="@string/SendFile"
+          android:showAsAction="never"/>
+    <item android:id="@+id/file_direct"
+        android:visible="false"
+        android:title="@string/SendFileDirect"
+        android:showAsAction="never"/>
+    <item android:id="@+id/search"
+          android:title="@android:string/search_go"/>
+    <item android:title="@string/History"
+          android:showAsAction="never">
+        <menu>
+            <item android:id="@+id/delete_history"
+                  android:title="@string/DeleteHistory"/>
+            <item android:id="@+id/export_history"
+                  android:title="@string/Export"/>
+        </menu>
+    </item>
+    <item android:id="@+id/close"
+          android:title="@string/Close"
+          android:showAsAction="never"/>
+</menu>

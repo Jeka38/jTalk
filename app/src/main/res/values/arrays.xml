@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="statusArray">
+    	<item>Online</item>
+    	<item>Away</item>
+    	<item>Extended Away</item>
+    	<item>Do not disturb</item>
+    	<item>Free for chat</item>
+    	<item>Offline</item>
+    </array>
+    
+    <string-array name="vibrationArray">
+    	<item>Always</item>
+    	<item>Chat only</item>
+    	<item>Chat and Direct messages from conferences</item>
+    	<item>Conferences only</item>
+    	<item>Never</item>
+    </string-array>
+    
+    <string-array name="vibrationValues">
+    	<item>1</item>
+    	<item>2</item>
+    	<item>3</item>
+    	<item>4</item>
+    	<item>5</item>
+    </string-array>
+    
+    <string-array name="privacyActions">
+    	<item>allow</item>
+    	<item>deny</item>
+    </string-array>
+    
+    <string-array name="privacyTypes">
+    	<item>jid</item>
+    	<item>group</item>
+    	<item>subscription</item>
+    </string-array>
+
+    <string-array name="LightsValues">
+        <item>-16711936</item>
+        <item>-16776961</item>
+        <item>-65536</item>
+    </string-array>
+
+    <string-array name="lightsArray">
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Red</item>
+    </string-array>
+
+    <string-array name="rooms">
+        <item>jtalk@conference.jabber.ru</item>
+    </string-array>
+
+    <string-array name="StatusMessagesValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="StatusMessages">
+        <item>Hide all status changes</item>
+        <item>Show all status changes</item>
+        <item>Show only join/leave statuses</item>
+    </string-array>
+</resources>

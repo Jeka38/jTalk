@@ -1,0 +1,1447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<icondef>
+  <meta>
+	<name>Satrap_psi</name>
+  </meta>
+  <icon>
+    <text>O:-)</text>
+	<text>O+)</text>
+	<text>O:)</text>
+	<text>O=)</text>
+    <object mime="image/png">033.png</object>
+  </icon>
+  <icon>
+	<text>:-)</text>
+	<text>:)</text>
+	<text>=)</text>
+	<text>=))</text>
+	<text>:-))</text>
+	<text>:))</text>
+	<text>+)</text>
+	<text>:smile:</text>
+	<object mime="image/png">001.png</object>
+  </icon>
+  <icon>
+	<text>:-(</text>
+	<text>:(</text>
+	<text>=(</text>
+	<text>+(</text>
+	<text>:-((</text>
+	<text>:((</text>
+	<text>+((</text>
+	<text>=(</text>
+	<text>:sad:</text>
+	<text>*sad*</text>
+	<text>:SAD:</text>
+	<text>*SAD*</text>
+	<object mime="image/png">002.png</object>
+  </icon>
+  <icon>
+	<text>;-)</text>
+	<text>;)</text>
+	<text>^_~</text>
+	<text>:wink:</text>
+	<text>:WINK:</text>
+	<text>*wink*</text>
+	<text>*WINK*</text>
+	<object mime="image/png">003.png</object>
+  </icon>
+  <icon>
+	<text>*HI*</text>
+	<text>*hi*</text>
+	<text>*HELLO*</text>
+	<text>*hello*</text>
+	<text>:hello:</text>
+	<text>:HELLO:</text>
+	<text>:HI:</text>
+	<object mime="image/png">004.png</object>
+  </icon>
+  <icon>
+	<text>8-)</text>
+	<text>8)</text>
+	<text>B-)</text>
+	<text>B)</text>
+	<text>B-D</text>
+	<object mime="image/png">005.png</object>
+  </icon>
+  <icon>
+	<text>:-D</text>
+	<text>:D</text>
+	<text>+D</text>
+	<text>=D</text>
+	<text>:-))))</text>
+	<text>:))))</text>
+	<text>=))))</text>
+	<text>:biggrin:</text>
+	<text>*BIGGRIN*</text>
+	<object mime="image/png">006.png</object>
+  </icon>
+  <icon>
+	<text>:-[</text>
+	<text>:[</text>
+	<text>(e)</text>
+	<text>(E)</text>
+	<text>:C)</text>
+	<text>:C-)</text>
+	<text>;'&gt;</text>
+	<text>=C)</text>
+	<text>;-.</text>
+	<text>:blush:</text>
+	<text>*BLUSH*</text>
+	<object mime="image/png">007.png</object>
+  </icon>
+  <icon>
+	<text>O_O</text>
+	<text>=-O</text>
+	<text>:-o</text>
+	<text>:O</text>
+	<text>=:-O</text>
+	<text>=:-o</text>
+	<text>=O</text>
+	<text>:-0</text>
+	<text>o_o</text>
+	<text>:-O</text>
+	<text>O_o</text>
+	<text>o_O</text>
+	<text>0_0</text>
+	<text>O_0</text>
+	<object mime="image/png">008.png</object>
+  </icon>
+  <icon>
+	<text>:-*</text>
+	<text>+{}</text>
+	<text>*KISS*</text>
+	<text>={|}</text>
+	<text>(K)</text>
+	<text>(k)</text>
+	<text>:{}</text>
+	<text>:*</text>
+	<text>:-{}</text>
+	<text>={}</text>
+	<text>^.^</text>
+	<text>:kiss:</text>
+	<text>*kiss*</text>
+	<object mime="image/png">009.png</object>
+  </icon>
+  <icon>
+	<text>8-D</text>
+	<text>8-P</text>
+	<text>8P</text>
+	<object mime="image/png">010.png</object>
+  </icon>
+  <icon>
+	<text>*KISSED*</text>
+	<text>*kissed*</text>
+	<text>:kissed:</text>
+	<object mime="image/png">011.png</object>
+  </icon>
+  <icon>
+	<text>:'(</text>
+	<text>8(</text>
+	<text>8-[</text>
+	<text>8-(</text>
+	<text>8[</text>
+	<text>:-&lt;</text>
+	<text>*WHINING*</text>
+	<text>*whining*</text>
+	<text>:whining:</text>
+	<text>:'-(</text>
+	<text>;'(</text>
+	<object mime="image/png">012.png</object>
+  </icon>
+  <icon>
+	<text>*THUMBS_UP*</text>
+	<text>*THUMBS UP*</text>
+	<text>*THUMBSUP*</text>
+	<text>*GOOD*</text>
+	<text>*thumbs_up*</text>
+	<text>:thumbs up:</text>
+	<text>:thumbs_up:</text>
+	<text>*thumbs up*</text>
+	<text>:THUMBS UP:</text>
+	<object mime="image/png">013.png</object>
+  </icon>
+  <icon>
+	<text>*THUMBS_DOWN*</text>
+	<text>*THUMBS DOWN*</text>
+	<text>*thumbs down*</text>
+	<text>:THUMBS DOWN:</text>
+	<text>:THUMBS_DOWN:</text>
+	<text>*DOWN*</text>
+	<object mime="image/png">014.png</object>
+  </icon>
+  <icon>
+	<text>*ANGRY*</text>
+	<text>&gt;:O</text>
+	<text>&gt;+O</text>
+	<text>&gt;:o</text>
+	<text>&gt;+o</text>
+	<text>&gt;=O</text>
+	<text>&gt;=o</text>
+	<text>:-@</text>
+	<text>:o</text>
+	<text>:angry:</text>
+	<text>*ANGER*</text>
+	<text>&gt;:o</text>
+	<object mime="image/png">015.png</object>
+  </icon>
+  <icon>
+	<text>*ROFL*</text>
+	<text>:rofl:</text>
+	<text>:LOL:</text>
+	<text>*LOL*</text>
+	<text>*lol*</text>
+	<text>*rofl*</text>
+	<text>*ROTFL*</text>
+	<text>:ROFL:</text>
+	<text>:lol:</text>
+	<text>:-)))))</text>
+	<text>:-))))))</text>
+	<text>:)))))</text>
+	<text>:))))))</text>
+	<object mime="image/png">016.png</object>
+  </icon>
+  <icon>
+	<text>:-P</text>
+	<text>:-p</text>
+	<text>:P</text>
+	<text>:p</text>
+	<text>=P</text>
+	<text>:-P</text>
+	<text>+P</text>
+	<text>=P</text>
+	<text>+p</text>
+	<text>:-b</text>
+	<text>:b</text>
+	<text>+b</text>
+	<text>=b</text>
+	<object mime="image/png">017.png</object>
+  </icon>
+  <icon>
+	<text>@}->--</text>
+	<text>@};-</text>
+	<text>(F)</text>
+	<text>(f)</text>
+	<text>@}-:--</text>
+	<text>*ROSE*</text>
+	<text>@>}--`---</text>
+	<text>:rose:</text>
+	<text>*rose*</text>
+	<text>@};--</text>
+	<object mime="image/png">018.png</object>
+  </icon>
+  <icon>
+	<text>*JOKINGLY*</text>
+	<text>*jokingly*</text>
+	<text>:JOKINGLY:</text>
+	<text>:jokingly:</text>
+	<text>:o)</text>
+	<object mime="image/png">019.png</object>
+  </icon>
+  <icon>
+	<text>*DEVIL*</text>
+	<text>*DIABLO*</text>
+	<text>]:-></text>
+	<text>}:-&gt;</text>
+	<text>]:&gt;</text>
+	<text>}:&gt;</text>
+	<text>&gt;:-]</text>
+	<text>}:-></text>
+	<text>:diablo:</text>
+	<text>*diablo*</text>
+	<text>]:-&gt;</text>
+	<text>*devil*</text>
+	<object mime="image/png">021.png</object>
+  </icon>
+  <icon>
+	<text>;-|</text>
+	<text>;|</text>
+	<object mime="image/png">022.png</object>
+  </icon>
+  <icon>
+	<text>*DONT_KNOW*</text>
+	<text>*dntknw*</text>
+	<text>*DONT KNOW*</text>
+	<text>*DONTKNOW*</text>
+	<text>*UNKNOWN*</text>
+	<text>:dntknw:</text>
+	<text>*unknown*</text>
+	<text>:DONT_KNOW:</text>
+	<text>*dont know*</text>
+	<object mime="image/png">023.png</object>
+  </icon>
+  <icon>
+	<text>*ERMM*</text>
+	<text>:ermm:</text>
+	<text>*ermm*</text>
+	<object mime="image/png">024.png</object>
+  </icon>
+  <icon>
+	<text>:-\</text>
+	<text>:-/</text>
+	<text>*HM*</text>
+	<text>*hm*</text>
+	<text>:HM:</text>
+	<text>:hm:</text>
+	<text>:s</text>
+	<object mime="image/png">025.png</object>
+  </icon>
+  <icon>
+	<text>*DANCE*</text>
+	<text>*dance*</text>
+	<text>:dance:</text>
+	<object mime="image/png">026.png</object>
+  </icon>
+  <icon>
+	<text>*BLINK*</text>
+	<text>8-|</text>
+	<text>8|</text>
+	<text>?-|</text>
+	<text>8-/</text>
+	<text>*blink*</text>
+	<text>:BLINK:</text>
+	<text>*BLIND*</text>
+	<object mime="image/png">027.png</object>
+  </icon>
+  <icon>
+	<text>*PARDON*</text>
+	<text>=]</text>
+	<text>:pardon:</text>
+	<text>:PARDON:</text>
+	<object mime="image/png">028.png</object>
+  </icon>
+  <icon>
+	<text>*SUN*</text>
+	<text>*SUNNY*</text>
+	<text>*sun*</text>
+	<text>:sun:</text>
+	<text>:sunny:</text>
+	<object mime="image/png">029.png</object>
+  </icon>
+  <icon>
+	<text>:")</text>
+	<text>:-")</text>
+	<object mime="image/png">030.png</object>
+  </icon>
+  <icon>
+	<text>*LICK*</text>
+	<text>*lick*</text>
+	<text>:LICK:</text>
+	<text>:lick:</text>
+	<text>*NYAM*</text>
+	<object mime="image/png">031.png</object>
+  </icon>
+  <icon>
+	<text>*FOOD*</text>
+	<text>*food*</text>
+	<text>:food:</text>
+	<text>(pl)</text>
+	<object mime="image/png">032.png</object>
+  </icon>
+  <icon>
+	<text>*MAT*</text>
+	<text>*mat*</text>
+	<text>*MAD*</text>
+	<text>*mad*</text>
+	<text>:MAD:</text>
+	<text>:mad:</text>
+	<text>:MAT:</text>
+	<text>:mat:</text>
+	<text>:@</text>
+	<text>&gt;:o</text>
+	<text>]&gt;[</text>
+	<text>];-#</text>
+	<object mime="image/png">034.png</object>
+  </icon>
+  <icon>
+	<text>*TIRED*</text>
+	<text>3|</text>
+	<text>|-0</text>
+	<text>:TIRED:</text>
+	<text>:boredom:</text>
+	<text>3-|</text>
+	<text>*BOREDOM*</text>
+	<object mime="image/png">035.png</object>
+  </icon>
+  <icon>
+	<text>*STOP*</text>
+	<text>*stop*</text>
+	<text>:STOP:</text>
+	<text>:stop:</text>
+	<object mime="image/png">036.png</object>
+  </icon>
+  <icon>
+	<text>*BOTAN*</text>
+	<text>*BOTANIK*</text>
+	<text>:BOTAN:</text>
+	<text>:umnik:</text>
+	<text>*UMNIK*</text>
+	<object mime="image/png">038.png</object>
+  </icon>
+  <icon>
+	<text>*NINJA*</text>
+	<text>*ninja*</text>
+	<text>:NINJA:</text>
+	<text>:ninja:</text>
+	<text>|-)</text>
+	<text>[:|]</text>
+	<object mime="image/png">039.png</object>
+  </icon>
+  <icon>
+	<text>*WALL*</text>
+	<text>*wall*</text>
+	<text>:WALL:</text>
+	<object mime="image/png">040.png</object>
+  </icon>
+  <icon>
+	<text>*PARASOL*</text>
+	<text>*parasol*</text>
+	<text>*UMBRELLA*</text>
+	<text>*ZONT*</text>
+	<text>*zont*</text>
+	<object mime="image/png">041.png</object>
+  </icon>
+  <icon>
+	<text>*VAVA*</text>
+	<text>*BLACK EYE*</text>
+	<text>*BLACKEYE*</text>
+	<text>*kick*</text>
+	<text>*kicked*</text>
+	<text>:kicked:</text>
+	<object mime="image/png">043.png</object>
+  </icon>
+  <icon>
+	<text>*BEER*</text>
+	<text>(B)</text>
+	<text>*beer*</text>
+	<text>(b)</text>
+	<text>:beer:</text>
+	<text>:BEER:</text>
+	<object mime="image/png">044.png</object>
+  </icon>
+  <icon>
+	<text>*BOMB*</text>
+	<text>*bomb*</text>
+	<text>:BOMB:</text>
+	<text>:bomb:</text>
+	<text>=@</text>
+	<text>@=</text>
+	<object mime="image/png">045.png</object>
+  </icon>
+  <icon>
+	<text>*KOMP*</text>
+	<object mime="image/png">046.png</object>
+  </icon>
+  <icon>
+	<text>*BINOCLE*</text>
+	<object mime="image/png">047.png</object>
+  </icon>
+  <icon>
+	<text>*HELP*</text>
+	<text>*SOS*</text>
+	<text>*sos*</text>
+	<text>*help_me*</text>
+	<text>*help*</text>
+	<text>:help:</text>
+	<text>(help)</text>
+	<text>*HELP_ME*</text>
+	<object mime="image/png">048.png</object>
+  </icon>
+  <icon>
+	<text>\m/</text>
+	<text>*COOLBOY*</text>
+	<text>*coolboy*</text>
+	<text>:coolboy:</text>
+	<text>:cool:</text>
+	<object mime="image/png">049.png</object>
+  </icon>
+  <icon>
+	<text>*RTFM*</text>
+	<text>:RTFM:</text>
+	<object mime="image/png">050.png</object>
+  </icon>
+  <icon>
+	<text>*CRAZY*</text>
+	<text>:crazy:</text>
+	<text>*crazy*</text>
+	<object mime="image/png">051.png</object>
+  </icon>
+  <icon>
+	<text>*BANNED*</text>
+	<text>*WARNING*</text>
+	<text>*BANN*</text>
+	<text>*BAN*</text>
+	<text>:BANNED:</text>
+	<text>:BAN:</text>
+	<object mime="image/png">052.png</object>
+  </icon>
+  <icon>
+	<text>*YU*</text>
+	<text>*WHISTLE*</text>
+	<text>:-"</text>
+	<object mime="image/png">053.png</object>
+  </icon>
+  <icon>
+	<text>*CAN'T_SEE*</text>
+	<text>:can't see:</text>
+	<text>*can't see*</text>
+	<object mime="image/png">054.png</object>
+  </icon>
+  <icon>
+	<text>*FUCK*</text>
+	<text>*fuck*</text>
+	<text>*FUCK YOU*</text>
+	<text>*FUCKOFF*</text>
+	<text>*fuck*</text>
+	<text>*fuc..*</text>
+	<text>*FUC.. YOU*</text>
+	<text>*fuckoff*</text>
+	<text>:FUCK:</text>
+	<object mime="image/png">055.png</object>
+  </icon>
+  <icon>
+	<text>*FIGA*</text>
+	<text>*figa*</text>
+	<text>:FIGA:</text>
+	<text>:figa:</text>
+	<object mime="image/png">056.png</object>
+  </icon>
+  <icon>
+	<text>*OK*</text>
+	<text>(OK)</text>
+	<text>*ok*</text>
+	<text>:ok:</text>
+	<text>(ok)</text>
+	<object mime="image/png">057.png</object>
+  </icon>
+  <icon>
+	<text>*VICTORY*</text>
+	<text>:VICTORY:</text>
+	<text>*V*</text>
+	<object mime="image/png">058.png</object>
+  </icon>
+  <icon>
+	<text>*HYSTERIC*</text>
+	<text>=;OO</text>
+	<text>=:oOO</text>
+	<text>*SCARE*</text>
+	<text>*SCARED*</text>
+	<text>*HISTERICS*</text>
+	<text>*SHOUT*</text>
+	<text>*ranting*</text>
+	<text>=:OO</text>
+	<object mime="image/png">059.png</object>
+  </icon>
+  <icon>
+	<text>/;P</text>
+	<text>/;p</text>
+	<text>&gt;:P</text>
+	<object mime="image/png">060.png</object>
+  </icon>
+  <icon>
+	<text>*reads*</text>
+	<text>*read*</text>
+	<text>*READS*</text>
+	<text>:READS:</text>
+	<object mime="image/png">061.png</object>
+  </icon>
+  <icon>
+	<text>:-?</text>
+	<text>:-?</text>
+	<text>:?</text>
+	<text>*???*</text>
+	<text>=?</text>
+	<object mime="image/png">062.png</object>
+  </icon>
+  <icon>
+	<text>X-.</text>
+	<object mime="image/png">063.png</object>
+  </icon>
+  <icon>
+	<text>*hidden*</text>
+	<text>:hidden:</text>
+	<text>*TOMATO*</text>
+	<text>*HIDDEN*</text>
+	<text>*tomato*</text>
+	<object mime="image/png">064.png</object>
+  </icon>
+  <icon>
+	<text>:-]</text>
+	<text>*shutnik*</text>
+	<text>*SHUTNIK*</text>
+	<text>*WUTNIK*</text>
+	<text>*HOHO*</text>
+	<text>*I-M_SO_HAPPY*</text>
+	<object mime="image/png">065.png</object>
+  </icon>
+  <icon>
+	<text>:-&gt;</text>
+	<text>:&gt;</text>
+	<object mime="image/png">066.png</object>
+  </icon>
+  <icon>
+	<text>*HAPPY*</text>
+	<text>*happy*</text>
+	<text>:HAPPY:</text>
+	<text>:happy:</text>
+	<text>*I'M_HAPPY*</text>
+	<object mime="image/png">067.png</object>
+  </icon>
+  <icon>
+	<text>*ROCK*</text>
+	<text>*PUNK*</text>
+	<text>*cool punk*</text>
+	<text>:ROCK:</text>
+	<text>*rock*</text>
+	<object mime="image/png">068.png</object>
+  </icon>
+  <icon>
+	<text>:-E</text>
+	<object mime="image/png">069.png</object>
+  </icon>
+  <icon>
+	<text>*show*</text>
+	<text>*SHOW*</text>
+	<text>:show:</text>
+	<text>*NOT_I*</text>
+	<object mime="image/png">070.png</object>
+  </icon>
+  <icon>
+	<text>*nose*</text>
+	<text>:nose:</text>
+	<text>*NOSE*</text>
+	<object mime="image/png">071.png</object>
+  </icon>
+  <icon>
+	<text>*sorry*</text>
+	<text>*SORRY*</text>
+	<text>:sorry:</text>
+	<object mime="image/png">072.png</object>
+  </icon>
+  <icon>
+	<text>*S_BADUNA*</text>
+	<object mime="image/png">073.png</object>
+  </icon>
+  <icon>
+	<text>*OUT*</text>
+	<text>*out*</text>
+	<text>:OUT:</text>
+	<text>:out:</text>
+	<text>%)</text>
+	<text>%-)</text>
+	<text>:-[]</text>
+	<object mime="image/png">074.png</object>
+  </icon>
+  <icon>
+	<text>*ALCOHOLIC*</text>
+	<text>*drink drunk*</text>
+	<object mime="image/png">075.png</object>
+  </icon>
+  <icon>
+	<text>*BB*</text>
+	<text>*STRONG*</text>
+	<object mime="image/png">076.png</object>
+  </icon>
+  <icon>
+	<text>*BUBA*</text>
+	<text>*buba*</text>
+	<text>:BUBA:</text>
+	<object mime="image/png">077.png</object>
+  </icon>
+  <icon>
+	<text>*CENSORED*</text>
+	<object mime="image/png">078.png</object>
+  </icon>
+  <icon>
+	<text>*prison*</text>
+	<object mime="image/png">079.png</object>
+  </icon>
+  <icon>
+	<text>*MEGASHOK*</text>
+	<object mime="image/png">081.png</object>
+  </icon>
+  <icon>
+	<text>*CAT*</text>
+	<text>*cat*</text>
+	<text>:cat:</text>
+	<object mime="image/png">082.png</object>
+  </icon>
+  <icon>
+	<text>:-!</text>
+	<text>:!</text>
+	<text>:-~</text>
+	<text>;-~</text>
+	<text>:(~</text>
+	<text>*BAD*</text>
+	<text>=(~</text>
+	<text>*SICK*</text>
+	<text>:bad:</text>
+	<object mime="image/png">083.png</object>
+  </icon>
+  <icon>
+	<text>*HANG*</text>
+	<text>X-)</text>
+	<text>X)</text>
+	<object mime="image/png">084.png</object>
+  </icon>
+  <icon>
+	<text>*NIRVANA*</text>
+	<text>*nirvana*</text>
+	<text>:NIRVANA:</text>
+	<object mime="image/png">085.png</object>
+  </icon>
+  <icon>
+	<text>*SHOT*</text>
+	<text>*russian roulette*</text>
+	<text>*SUICIDE*</text>
+	<text>*suicide*</text>
+	<object mime="image/png">086.png</object>
+  </icon>
+  <icon>
+	<text>*SCRATCH*</text>
+	<text>*SCLEROSIS*</text>
+	<text>*scratch*</text>
+	<text>:skratch:</text>
+	<object mime="image/png">087.png</object>
+  </icon>
+  <icon>
+	<text>*TSSS*</text>
+	<text>*tsss*</text>
+	<text>:tsss:</text>
+	<object mime="image/png">088.png</object>
+  </icon>
+  <icon>
+	<text>*TORMOZ*</text>
+	<text>*SLOW*</text>
+	<text>*tormoz*</text>
+	<object mime="image/png">089.png</object>
+  </icon>
+  <icon>
+	<text>*king*</text>
+	<text>*KING*</text>
+	<object mime="image/png">090.png</object>
+  </icon>
+  <icon>
+	<text>*gun vinsent*</text>
+	<text>*VINSENT*</text>
+	<object mime="image/png">091.png</object>
+  </icon>
+  <icon>
+	<text>*PLAYING*</text>
+	<text>*PLAY*</text>
+	<object mime="image/png">092.png</object>
+  </icon>
+  <icon>
+	<text>*THANK*</text>
+	<text>*thanks*</text>
+	<text>*thank*</text>
+	<text>*THANKS*</text>
+	<text>*THANK_YOU*</text>
+	<object mime="image/png">093.png</object>
+  </icon>
+  <icon>
+	<text>*CALL*</text>
+	<object mime="image/png">094.png</object>
+  </icon>
+  <icon>
+	<text>*BRAVO*</text>
+	<text>*bravo*</text>
+	<text>:bravo:</text>
+	<object mime="image/png">095.png</object>
+  </icon>
+  <icon>
+	<text>*BOUQUET*</text>
+	<text>*many flowers*</text>
+	<object mime="image/png">097.png</object>
+  </icon>
+  <icon>
+	<text>*foot*</text>
+	<text>*BEGU*</text>
+	<object mime="image/png">098.png</object>
+  </icon>
+  <icon>
+	<text>*DEER*</text>
+	<object mime="image/png">099.png</object>
+  </icon>
+  <icon>
+	<text>*wash*</text>
+	<text>*SHOWER*</text>
+	<object mime="image/png">100.png</object>
+  </icon>
+  <icon>
+	<text>*POKLON*</text>
+	<text>*NOT_AT_ALL!*</text>
+	<text>*CURTSEY*</text>
+	<object mime="image/png">101.png</object>
+  </icon>
+  <icon>
+	<text>*HEAT*</text>
+	<text>*BEEE*</text>
+	<text>*heat*</text>
+	<text>*fever*</text>
+	<object mime="image/png">102.png</object>
+  </icon>
+  <icon>
+	<text>*IN_LOVE*</text>
+	<text>*IN LOVE*</text>
+	<text>(L)</text>
+	<text>*in love*</text>
+	<text>:IN LOVE:</text>
+	<text>(l)</text>
+	<object mime="image/png">103.png</object>
+  </icon>
+  <icon>
+	<text>*DISOBEDIENT*</text>
+	<object mime="image/png">104.png</object>
+  </icon>
+  <icon>
+	<text>*KU-KU*</text>
+	<text>*KOO-KOO*</text>
+	<text>*KUKU*</text>
+	<text>*KU_KU*</text>
+	<text>*kuku*</text>
+	<object mime="image/png">105.png</object>
+  </icon>
+  <icon>
+	<text>*KARTI*</text>
+	<object mime="image/png">106.png</object>
+  </icon>
+  <icon>
+	<text>*SKULL*</text>
+	<text>:skull:</text>
+	<text>8-X</text>
+	<text>8-x</text>
+	<text>:SKULL:</text>
+	<object mime="image/png">107.png</object>
+  </icon>
+  <icon>
+	<text>*VAMPIRE*</text>
+	<text>*horror*</text>
+	<text>*bat*</text>
+	<text>*HORROR*</text>
+	<text>*vampire*</text>
+	<text>:horror:</text>
+	<text>:VAMPIRE:</text>
+	<object mime="image/png">108.png</object>
+  </icon>
+  <icon>
+	<text>*ILL*</text>
+	<object mime="image/png">109.png</object>
+  </icon>
+  <icon>
+	<text>*SEX*</text>
+	<text>:SEX:</text>
+	<text>*sex*</text>
+	<object mime="image/png">110.png</object>
+  </icon>
+  <icon>
+	<text>*TIME*</text>
+	<object mime="image/png">111.png</object>
+  </icon>
+  <icon>
+	<text>*RUSSIAN*</text>
+	<object mime="image/png">112.png</object>
+  </icon>
+  <icon>
+	<text>*TEASE*</text>
+	<text>*tease*</text>
+	<object mime="image/png">113.png</object>
+  </icon>
+  <icon>
+	<text>*SEARCH*</text>
+	<text>*SEARCHING*</text>
+	<object mime="image/png">114.png</object>
+  </icon>
+  <icon>
+	<text>*ADMIN*</text>
+	<object mime="image/png">115.png</object>
+  </icon>
+  <icon>
+	<text>*cold*</text>
+	<text>*ZAMERZ*</text>
+	<text>:COOL:</text>
+	<text>:cool:</text>
+	<object mime="image/png">116.png</object>
+  </icon>
+  <icon>
+	<text>*MANIAC*</text>
+	<object mime="image/png">117.png</object>
+  </icon>
+  <icon>
+	<text>*COFFEE*</text>
+	<text>(c)</text>
+	<text>*coffe*</text>
+	<text>*coffee*</text>
+	<text>*CUP_OF_COFFEE*</text>
+	<text>(C)</text>
+	<object mime="image/png">118.png</object>
+  </icon>
+  <icon>
+	<text>*TOST*</text>
+	<object mime="image/png">119.png</object>
+  </icon>
+  <icon>
+	<text>*HACKER*</text>
+	<text>*comp work*</text>
+	<text>*GAMER*</text>
+	<text>*gamer*</text>
+	<object mime="image/png">120.png</object>
+  </icon>
+  <icon>
+	<text>*ooops*</text>
+	<text>:ooops:</text>
+	<object mime="image/png">121.png</object>
+  </icon>
+  <icon>
+	<text>*DED MOROZ*</text>
+	<text>*santa*</text>
+	<text>:santa:</text>
+	<object mime="image/png">122.png</object>
+  </icon>
+  <icon>
+	<text>*SNEGUROCHKA*</text>
+	<object mime="image/png">123.png</object>
+  </icon>
+  <icon>
+	<text>*ELKA*</text>
+	<object mime="image/png">124.png</object>
+  </icon>
+  <icon>
+	<text>*PODAROK*</text>
+	<text>*podarok*</text>
+	<object mime="image/png">125.png</object>
+  </icon>
+  <icon>
+	<text>(_|_)</text>
+	<text>*ASS*</text>
+	<text>(ass)</text>
+	<object mime="image/png">126.png</object>
+  </icon>
+  <icon>
+	<text>*TOILET*</text>
+	<object mime="image/png">127.png</object>
+  </icon>
+  <icon>
+	<text>*HEART*</text>
+	<object mime="image/png">128.png</object>
+  </icon>
+  <icon>
+	<text>*GIVE_HEART*</text>
+	<text>*GIVE HEART*</text>
+	<object mime="image/png">129.png</object>
+  </icon>
+  <icon>
+	<text>*MONEY*</text>
+	<object mime="image/png">130.png</object>
+  </icon>
+  <icon>
+	<text>*yad*</text>
+	<object mime="image/png">131.png</object>
+  </icon>
+  <icon>
+	<text>*dance jaga*</text>
+	<object mime="image/png">132.png</object>
+  </icon>
+  <icon>
+	<text>*DOWNLOAD*</text>
+	<object mime="image/png">133.png</object>
+  </icon>
+  <icon>
+	<text>*sweet*</text>
+	<text>*SWEET*</text>
+	<object mime="image/png">134.png</object>
+  </icon>
+  <icon>
+	<text>*kir*</text>
+	<object mime="image/png">135.png</object>
+  </icon>
+  <icon>
+	<text>*SPITEFUL*</text>
+	<text>*spiteful*</text>
+	<object mime="image/png">136.png</object>
+  </icon>
+  <icon>
+	<text>*WASSUP*</text>
+	<text>*SUP*</text>
+	<text>*MAMBA*</text>
+	<text>:MAMBA:</text>
+	<text>:wassup:</text>
+	<object mime="image/png">137.png</object>
+  </icon>
+  <icon>
+	<text>*BYE*</text>
+	<text>:bye:</text>
+	<text>*bye*</text>
+	<object mime="image/png">138.png</object>
+  </icon>
+  <icon>
+	<text>*ravin*</text>
+	<object mime="image/png">139.png</object>
+  </icon>
+  <icon>
+	<text>*martini*</text>
+	<text>:martini:</text>
+	<object mime="image/png">141.png</object>
+  </icon>
+  <icon>
+	<text>*ice*</text>
+	<text>*ice cream*</text>
+	<object mime="image/png">142.png</object>
+  </icon>
+  <icon>
+	<text>:-|</text>
+	<text>:|</text>
+	<text>=|</text>
+	<text>:-.</text>
+	<object mime="image/png">143.png</object>
+  </icon>
+  <icon>
+	<text>*pioneer*</text>
+	<text>*PIONEER*</text>
+	<object mime="image/png">144.png</object>
+  </icon>
+  <icon>
+	<text>*starik*</text>
+	<text>*STARIK*</text>
+	<object mime="image/png">145.png</object>
+  </icon>
+  <icon>
+	<text>*PIG*</text>
+	<object mime="image/png">146.png</object>
+  </icon>
+  <icon>
+	<text>*TV*</text>
+	<object mime="image/png">147.png</object>
+  </icon>
+  <icon>
+	<text>*NO*</text>
+	<text>:no:</text>
+	<text>(n)</text>
+	<text>(N)</text>
+	<text>(no)</text>
+	<text>*no*</text>
+	<object mime="image/png">148.png</object>
+  </icon>
+  <icon>
+	<text>*bandito*</text>
+	<object mime="image/png">149.png</object>
+  </icon>
+  <icon>
+	<text>*pogranec*</text>
+	<text>*POGRANEC*</text>
+	<object mime="image/png">150.png</object>
+  </icon>
+  <icon>
+	<text>*fie*</text>
+	<text>*FIE*</text>
+	<object mime="image/png">152.png</object>
+  </icon>
+  <icon>
+	<text>*NEWSPAPER*</text>
+	<text>*newspaper*</text>
+	<text>*READ*</text>
+	<object mime="image/png">153.png</object>
+  </icon>
+  <icon>
+	<text>*umnik*</text>
+	<object mime="image/png">154.png</object>
+  </icon>
+  <icon>
+	<text>*ghost*</text>
+	<text>*GHOST*</text>
+	<object mime="image/png">155.png</object>
+  </icon>
+  <icon>
+	<text>*Ы*</text>
+	<text>*bl*</text>
+	<text>:bl:</text>
+	<object mime="image/png">156.png</object>
+  </icon>
+  <icon>
+	<text>*RIP*</text>
+	<text>*rip*</text>
+	<text>:RIP:</text>
+	<object mime="image/png">157.png</object>
+  </icon>
+  <icon>
+	<text>*DRINK*</text>
+	<text>*drink*</text>
+	<text>(water)</text>
+	<text>:water:</text>
+	<text>(D)</text>
+	<text>:DRINK:</text>
+	<text>:drink:</text>
+	<object mime="image/png">158.png</object>
+  </icon>
+  <icon>
+	<text>(exit)</text>
+	<text>*exit*</text>
+	<object mime="image/png">159.png</object>
+  </icon>
+  <icon>
+	<text>*PAROVOZ*</text>
+	<text>*locomotive*</text>
+	<object mime="image/png">160.png</object>
+  </icon>
+  <icon>
+	<text>*idea*</text>
+	<text>:IDEA:</text>
+	<text>*IDEA*</text>
+	<text>:idea:</text>
+	<object mime="image/png">161.png</object>
+  </icon>
+  <icon>
+	<text>*GIRL_DRINK*</text>
+	<text>*girl drink*</text>
+	<text>*GIRLDRINK*</text>
+	<object mime="image/png">080.png</object>
+  </icon>
+  <icon>
+	<text>*KISSING*</text>
+	<text>:KISSING:</text>
+	<text>:kissng:</text>
+	<text>*kissing*</text>
+	<object mime="image/png">037.png</object>
+  </icon>
+  <icon>
+	<text>*TENDER*</text>
+	<text>*tender*</text>
+	<object mime="image/png">042.png</object>
+  </icon>
+  <icon>
+	<text>*GIRL_IN_LOVE*</text>
+	<object mime="image/png">140.png</object>
+  </icon>
+  <icon>
+	<text>*TEDDY*</text>
+	<text>*teddy*</text>
+	<object mime="image/png">174.png</object>
+  </icon>
+  <icon>
+	<text>*girl blum*</text>
+	<object mime="image/png">162.png</object>
+  </icon>
+  <icon>
+	<text>*HOSPITAL*</text>
+	<object mime="image/png">163.png</object>
+  </icon>
+  <icon>
+	<text>*SIGH*</text>
+	<text>*GIRL_SIGH*</text>
+	<object mime="image/png">164.png</object>
+  </icon>
+  <icon>
+	<text>*GIRL_CRAZY*</text>
+	<text>*GIRL CRAZY*</text>
+	<object mime="image/png">165.png</object>
+  </icon>
+  <icon>
+	<text>*GIRL_CRY*</text>
+	<text>*GIRL CRAY*</text>
+	<text>*GIRL CRY*</text>
+	<text>*GIRL_CRAY*</text>
+	<object mime="image/png">186.png</object>
+  </icon>
+  <icon>
+	<text>*GIRL_MAD*</text>
+	<text>*GIRL MAD*</text>
+	<text>*girl_mad*</text>
+	<text>*girl mad*</text>
+	<object mime="image/png">211.png</object>
+  </icon>
+  <icon>
+	<text>*GIRL_DEVIL*</text>
+	<text>*GIRL DEVIL*</text>
+	<text>:GIRL_DEVIL:</text>
+	<object mime="image/png">020.png</object>
+  </icon>
+  <icon>
+	<text>*IMPOSSIBLE*</text>
+	<object mime="image/png">187.png</object>
+  </icon>
+  <icon>
+	<text>*GIRL_SMOKE*</text>
+	<text>*GIRL SMOKE*</text>
+	<object mime="image/png">096.png</object>
+  </icon>
+  <icon>
+	<text>*queen*</text>
+	<text>*QUEEN*</text>
+	<object mime="image/png">151.png</object>
+  </icon>
+  <icon>
+	<text>*PILOT*</text>
+	<text>*pilot*</text>
+	<object mime="image/png">166.png</object>
+  </icon>
+  <icon>
+	<text>*WRITE*</text>
+	<text>*MAIL*</text>
+	<text>*mail*</text>
+	<text>:WRITE:</text>
+	<text>*wryte*</text>
+	<object mime="image/png">167.png</object>
+  </icon>
+  <icon>
+	<text>*BOAST*</text>
+	<object mime="image/png">168.png</object>
+  </icon>
+  <icon>
+	<text>*BEACH*</text>
+	<object mime="image/png">169.png</object>
+  </icon>
+  <icon>
+	<text>*WORK*</text>
+	<text>*JOB*</text>
+	<text>*MOIL*</text>
+	<object mime="image/png">170.png</object>
+  </icon>
+  <icon>
+	<text>*baby*</text>
+	<text>:baby:</text>
+	<text>*BABY*</text>
+	<object mime="image/png">171.png</object>
+  </icon>
+  <icon>
+	<text>*SECRET*</text>
+	<text>:-X</text>
+	<text>:-x</text>
+	<text>:-#</text>
+	<text>:#</text>
+	<text>:secret:</text>
+	<text>:SECRET:</text>
+	<text>*secret*</text>
+	<object mime="image/png">172.png</object>
+  </icon>
+  <icon>
+	<text>*POPCORN*</text>
+	<text>*popcorn*</text>
+	<object mime="image/png">173.png</object>
+  </icon>
+  <icon>
+	<text>*ZAWTOROJ*</text>
+	<text>*zawtoroj*</text>
+	<text>:ZAWTOROJ:</text>
+	<text>:zawtoroj:</text>
+	<object mime="image/png">175.png</object>
+  </icon>
+  <icon>
+	<text>*YAHOO*</text>
+	<text>*yahoo*</text>
+	<text>:yahoo:</text>
+	<object mime="image/png">176.png</object>
+  </icon>
+  <icon>
+	<text>*WACKO*</text>
+	<text>:wacko:</text>
+	<text>:WACKO:</text>
+	<object mime="image/png">177.png</object>
+  </icon>
+  <icon>
+	<text>*pioneer smoke*</text>
+	<object mime="image/png">178.png</object>
+  </icon>
+  <icon>
+	<text>*SLEEP*</text>
+	<text>3-|{</text>
+	<text>*LAZY*</text>
+	<text>*ASLEEP*</text>
+	<text>*SLEEPING*</text>
+	<text>*SLEEPY*</text>
+	<text>:SLEEP:</text>
+	<text>:sleep:</text>
+	<text>*sleep*</text>
+	<text>(Z)</text>
+	<object mime="image/png">179.png</object>
+  </icon>
+  <icon>
+	<text>*WIZARD*</text>
+	<text>*MASTER*</text>
+	<object mime="image/png">180.png</object>
+  </icon>
+  <icon>
+	<text>=/</text>
+	<text>=\</text>
+	<text>:\</text>
+	<object mime="image/png">181.png</object>
+  </icon>
+  <icon>
+	<text>:-S</text>
+	<text>8-S</text>
+	<text>:-s</text>
+	<text>8-s</text>
+	<object mime="image/png">182.png</object>
+  </icon>
+  <icon>
+	<text>*SARCASTIC*</text>
+	<object mime="image/png">183.png</object>
+  </icon>
+  <icon>
+	<text>*HUNTER*</text>
+	<object mime="image/png">184.png</object>
+  </icon>
+  <icon>
+	<text>:firebox:</text>
+	<text>:burn:</text>
+	<object mime="image/png">185.png</object>
+  </icon>
+  <icon>
+	<text>*MOBILE*</text>
+	<text>*smart*</text>
+	<text>*SMART*</text>
+	<object mime="image/png">188.png</object>
+  </icon>
+  <icon>
+	<text>+1</text>
+	<text>*+1*</text>
+	<text>:+1:</text>
+	<object mime="image/png">189.png</object>
+  </icon>
+  <icon>
+	<text>*FOCUS*</text>
+	<object mime="image/png">190.png</object>
+  </icon>
+  <icon>
+	<text>*SMOKE*</text>
+	<text>*smoke*</text>
+	<text>:SMOKE:</text>
+	<object mime="image/png">191.png</object>
+  </icon>
+  <icon>
+	<text>*UFO*</text>
+	<text>*ufo*</text>
+	<object mime="image/png">192.png</object>
+  </icon>
+  <icon>
+	<text>(!)</text>
+	<text>:!:</text>
+	<text>*VOSKL*</text>
+	<text>*voskl*</text>
+	<text>:VOSKL:</text>
+	<text>:voskl:</text>
+	<object mime="image/png">193.png</object>
+  </icon>
+  <icon>
+	<text>*Bombus*</text>
+	<text>*bombus*</text>
+	<object mime="image/png">194.png</object>
+  </icon>
+  <icon>
+	<text>*CHERRY*</text>
+	<object mime="image/png">195.png</object>
+  </icon>
+  <icon>
+	<text>*PAINT*</text>
+	<object mime="image/png">196.png</object>
+  </icon>
+  <icon>
+	<text>*RABBIT*</text>
+	<text>*PLEASANTRY*</text>
+	<object mime="image/png">197.png</object>
+  </icon>
+  <icon>
+	<text>*apple*</text>
+	<text>:apple:</text>
+	<object mime="image/png">198.png</object>
+  </icon>
+  <icon>
+	<text>*IGLA*</text>
+	<text>*igla*</text>
+	<text>:IGLA:</text>
+	<text>:igla:</text>
+	<object mime="image/png">199.png</object>
+  </icon>
+  <icon>
+	<text>*gg*</text>
+	<text>*GG*</text>
+	<text>:gg:</text>
+	<text>:GG:</text>
+	<object mime="image/png">200.png</object>
+  </icon>
+  <icon>
+	<text>*BAYAN*</text>
+	<text>[l|||l]</text>
+	<text>*bayan*</text>
+	<text>:BAYAN:</text>
+	<text>:bayan:</text>
+	<object mime="image/png">201.png</object>
+  </icon>
+  <icon>
+	<text>*hare*</text>
+	<text>*hear*</text>
+	<object mime="image/png">202.png</object>
+  </icon>
+  <icon>
+	<text>*TRAFKA*</text>
+	<object mime="image/png">203.png</object>
+  </icon>
+  <icon>
+	<text>*cyborg*</text>
+	<object mime="image/png">204.png</object>
+  </icon>
+  <icon>
+	<text>*POOH*</text>
+	<text>:pooh:</text>
+	<text>*POOH_GO*</text>
+	<object mime="image/png">205.png</object>
+  </icon>
+  <icon>
+	<text>*crazy_pilot*</text>
+	<text>:crazy_pilot:</text>
+	<object mime="image/png">206.png</object>
+  </icon>
+  <icon>
+	<text>[:-}</text>
+	<text>[:}</text>
+	<text>[:-)</text>
+	<text>[:)</text>
+	<text>*MUSIC*</text>
+	<text>*music*</text>
+	<text>:music:</text>
+	<object mime="image/png">207.png</object>
+  </icon>
+  <icon>
+	<text>*FRIEND*</text>
+	<text>*FRIENDS*</text>
+	<text>*friends*</text>
+	<text>:friends:</text>
+	<text>*friend*</text>
+	<object mime="image/png">208.png</object>
+  </icon>
+  <icon>
+	<text>*PREVED*</text>
+	<text>*preved*</text>
+	<text>:preved:</text>
+	<text>*PRIVET*</text>
+	<text>*privet*</text>
+	<object mime="image/png">209.png</object>
+  </icon>
+  <icon>
+	<text>*YES*</text>
+ 	<text>*yes*</text>
+ 	<text>:YES:</text>
+ 	<text>:yes:</text>
+ 	<text>*YESS*</text>
+	<text>(Y)</text>
+	<text>(y)</text>
+	<text>(yes)</text>
+	<object mime="image/png">210.png</object>
+  </icon>
+  <icon>
+	<text>*zanjat*</text>
+	<text>*BUSY*</text>
+	<text>*busy*</text>
+	<object mime="image/png">212.png</object>
+  </icon>
+  <icon>
+	<text>*au_au*</text>
+	<text>*au*</text>
+	<text>*AU*</text>
+	<object mime="image/png">213.png</object>
+  </icon>
+  <icon>
+	<text>*PUNISH*</text>
+	<text>*PUNISHED*</text>
+	<object mime="image/png">214.png</object>
+  </icon>
+</icondef>

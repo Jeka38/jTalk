@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="statusArray">
+        <item>Доступен</item>
+        <item>Отошел</item>
+        <item>Давно отошел</item>
+        <item>Не беспокоить</item>
+        <item>Готов к чату</item>
+        <item>Отключен</item>
+    </array>
+    
+    <string-array name="vibrationArray">
+    	<item>Всегда</item>
+    	<item>Только чаты</item>
+    	<item>Чаты и обращения из конференций</item>
+    	<item>Только конференции</item>
+    	<item>Никогда</item>
+    </string-array>
+
+    <string-array name="lightsArray">
+        <item>Зеленый</item>
+        <item>Синий</item>
+        <item>Красный</item>
+    </string-array>
+
+    <string-array name="rooms">
+        <item>jtalk@conference.jabber.ru</item>
+    </string-array>
+
+    <string-array name="StatusMessages">
+        <item>Скрывать все</item>
+        <item>Показывать все</item>
+        <item>Только вход/выход</item>
+    </string-array>
+</resources>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:paddingLeft="3dp"
+	android:paddingRight="3dp"
+	android:orientation="vertical"
+	android:gravity="top"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:baselineAligned="true">
+
+	<LinearLayout
+		android:orientation="horizontal"
+		android:gravity="center_vertical"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/chat_item"
+		android:baselineAligned="true">
+
+		<CheckBox android:id="@+id/check"
+				  android:layout_height="wrap_content"
+				  android:layout_width="wrap_content"
+				  android:layout_gravity="center"
+				  android:visibility="gone"/>
+
+		<ImageView android:id="@+id/expand"
+			android:layout_gravity="center"
+			android:src="@drawable/close"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:visibility="gone"/>
+
+		<net.ustyugov.jtalk.view.MyTextView android:id="@+id/chat1"
+			android:gravity="center_vertical"
+			android:isScrollContainer="false"
+			android:layout_height="fill_parent"
+			android:layout_width="fill_parent"
+			android:paddingRight="7dip"
+			android:paddingLeft="7dip"
+			android:paddingBottom="5dip"
+			android:linksClickable="true"
+			android:textIsSelectable="false"
+			android:layout_gravity="center_vertical"/>
+	</LinearLayout>
+
+	<LinearLayout
+		android:id="@+id/attachments"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:baselineAligned="true"
+		android:gravity="top"
+		android:orientation="vertical"
+		android:visibility="visible">
+
+		<LinearLayout
+			android:id="@+id/attachment_image_layout"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center_horizontal"
+			android:gravity="top"
+			android:orientation="horizontal"
+			android:visibility="gone">
+
+			<ImageView
+				android:id="@+id/attachment_image_image"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_gravity="center" />
+
+		</LinearLayout>
+
+		<LinearLayout
+			android:id="@+id/attachment_html_layout"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_gravity="top"
+			android:gravity="top"
+			android:orientation="horizontal"
+			android:visibility="gone">
+
+			<ImageView
+				android:id="@+id/attachment_html_image"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:minWidth="96dp"
+				android:maxWidth="96dp"
+				android:paddingRight="3dp"
+				android:layout_gravity="top" />
+
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:orientation="vertical">
+
+				<TextView
+					android:id="@+id/attachment_html_title"
+					android:lines="1"
+					android:ellipsize="end"
+					android:textStyle="bold"
+					android:paddingBottom="3dp"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content" />
+
+				<TextView
+					android:id="@+id/attachment_html_description"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content" />
+			</LinearLayout>
+
+		</LinearLayout>
+	</LinearLayout>
+
+</LinearLayout>
